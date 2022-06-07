@@ -6,6 +6,8 @@
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_3.png)
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_4.png)
 
-# 3 Настройка и проверка основных параметров коммутаторов S1 S2
+# 3 Настройка и проверка основных параметров коммутаторов
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_5.png)
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_6.png)
+
+# 4 Настройка сетей VLAN на коммутаторах.
