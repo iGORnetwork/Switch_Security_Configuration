@@ -15,6 +15,7 @@
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_8.png)
 
 # Настройки безопасности коммутатора.
-## 1 Релизация магистральных соединений 802.1Q.
+## 1 Релизация магистральных соединений 802.1Q и настройка портов доступа.
+
 
 
