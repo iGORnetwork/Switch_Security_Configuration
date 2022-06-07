@@ -23,7 +23,7 @@
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_13.png)
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_14.png)
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_15.png)
-![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_16.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_20.png)
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_17.png)
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_18.png)
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_19.png)
