@@ -17,5 +17,16 @@
 # Настройки безопасности коммутатора.
 ## 1 Релизация магистральных соединений 802.1Q и настройка портов доступа.
 
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_10.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_11.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_12.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_13.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_14.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_15.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_16.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_17.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_18.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_19.png)
+
 
 
