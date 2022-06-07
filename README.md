@@ -11,3 +11,7 @@
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_6.png)
 
 # 4 Настройка сетей VLAN на коммутаторах.
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_7.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_8.png)
+
+
