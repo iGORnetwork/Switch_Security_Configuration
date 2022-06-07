@@ -6,3 +6,4 @@
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_3.png)
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_4.png)
 
+# 3 Настройка и проверка основных параметров коммутатора S1 S2
