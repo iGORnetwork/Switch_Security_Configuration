@@ -30,6 +30,10 @@
 
 # 2 Документирование и реализация функций безопасности порта.
 
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_21.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_22.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_23.png)
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_24.png)
 
 
 
