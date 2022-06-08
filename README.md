@@ -40,5 +40,5 @@
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_25.png)
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_26.png)
 
-
+# 4 Реализация PortFast и BPDU Guard
 
