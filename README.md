@@ -47,3 +47,5 @@
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_29.png)
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_30.png)
 
+# 5 Проверим наличие сквозного ⁪подключения.
+
