@@ -35,7 +35,9 @@
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_23.png)
 ![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_24.png)
 
-# 3 Реализовать безопасность DHCP snooping.
+# 3 Реализовать безопасность DHCP snooping S2
+
+![](https://github.com/iGORnetwork/Switch_Security_Configuration/blob/main/image/Screenshot_25.png)
 
 
 
